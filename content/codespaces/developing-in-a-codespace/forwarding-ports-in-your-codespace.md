@@ -193,3 +193,4 @@ For information on how to forward a port in a codespace to a port on your local 
 Alternatively, you can use {% data variables.product.prodname_cli %} to forward a port. For more information, click the "{% data variables.product.prodname_cli %}" tab at the top of this page.
 
 {% endjetbrains_beta %}
+enter 
